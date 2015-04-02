@@ -1,0 +1,23 @@
+{
+  "name": "detector-touch",
+  "version": "0.0.0",
+  "description": "Detect if the browser supports touch events",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "detector",
+    "touch",
+    "events"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nk-components/detector-touch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nk-components/detector-touch"
+  },
+  "bugs": {
+    "url": "https://github.com/nk-components/detector-touch/issues"
+  }
+}
